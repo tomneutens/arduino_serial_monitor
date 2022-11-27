@@ -1,0 +1,4 @@
+{
+    "plugins": ["transform-es2015-modules-systemjs"],
+    "presets": ["@babel/preset-env", "@babel/preset-typescript", "es2015"]
+}
